@@ -37,7 +37,7 @@ Una aplicación web moderna e interactiva para explorar los lanzamientos de Spac
 git clone https://github.com/Andres-cmk/spacex-typescript-app.git
 
 # Entrar al directorio
-cd spacex-launches-viewer
+cd api
 
 # Instalar dependencias
 npm install
