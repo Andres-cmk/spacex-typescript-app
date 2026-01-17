@@ -93,10 +93,6 @@ Este proyecto consume la [SpaceX API v3](https://api.spacexdata.com/v3):
 - [ ] Paginación o carga infinita
 - [ ] Estadísticas de lanzamientos
 
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
-
 ## 👨‍💻 Autor
 
 Desarrollado con 💜 por [Andres Ramirez](https://github.com/Andres-cmk/)
