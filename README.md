@@ -102,3 +102,8 @@ Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 Desarrollado con 💜 por [Andres Ramirez](https://github.com/Andres-cmk/)
 
 ---
+
+## Imagen de la interfaz
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/ac9fee3b-7990-4a89-ac8e-06aa03ae6d6f" />
+
