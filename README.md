@@ -99,7 +99,7 @@ Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 
 ## 👨‍💻 Autor
 
-Desarrollado con 💜 por [Tu Nombre](https://github.com/tu-usuario)
+Desarrollado con 💜 por [Andres Ramirez](https://github.com/Andres-cmk/)
 
 ---
 
