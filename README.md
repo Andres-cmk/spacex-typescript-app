@@ -102,28 +102,3 @@ Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 Desarrollado con 💜 por [Andres Ramirez](https://github.com/Andres-cmk/)
 
 ---
-
-⭐ Si te gusta este proyecto, no olvides darle una estrella en GitHub!
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
